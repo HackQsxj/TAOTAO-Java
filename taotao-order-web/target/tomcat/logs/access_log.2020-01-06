@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [06/Jan/2020:17:09:35 +0800] "GET /order/order-cart.html HTTP/1.1" 200 28790 http-bio-8092-exec-1 1872
+0:0:0:0:0:0:0:1 - - [06/Jan/2020:17:09:47 +0800] "POST /order/create.html HTTP/1.1" 200 7368 http-bio-8092-exec-3 3832
+0:0:0:0:0:0:0:1 - - [06/Jan/2020:17:09:47 +0800] "GET /css/purchase.base.2012.css HTTP/1.1" 200 13339 http-bio-8092-exec-4 91
+0:0:0:0:0:0:0:1 - - [06/Jan/2020:17:09:47 +0800] "GET /js/jquery.cookie.js HTTP/1.1" 200 3121 http-bio-8092-exec-7 102
+0:0:0:0:0:0:0:1 - - [06/Jan/2020:17:09:47 +0800] "GET /css/purchase.sop.css HTTP/1.1" 200 9885 http-bio-8092-exec-5 111
+0:0:0:0:0:0:0:1 - - [06/Jan/2020:17:09:47 +0800] "GET /js/base-2011.js HTTP/1.1" 200 29063 http-bio-8092-exec-6 124
+0:0:0:0:0:0:0:1 - - [06/Jan/2020:17:09:47 +0800] "GET /images/icon48.png HTTP/1.1" 200 391 http-bio-8092-exec-10 60
+0:0:0:0:0:0:0:1 - - [06/Jan/2020:17:09:47 +0800] "GET /images/flow.gif HTTP/1.1" 200 818 http-bio-8092-exec-6 96
+0:0:0:0:0:0:0:1 - - [06/Jan/2020:17:09:47 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8092-exec-6 3
